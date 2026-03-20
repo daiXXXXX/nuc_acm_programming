@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "mysql-mcp": {
+      "type": "stdio",
+      "command": "go",
+      "args": ["run", "./mcp-server/"],
+      "cwd": "${workspaceFolder}/programming-mcp"
+    }
+  }
+}
