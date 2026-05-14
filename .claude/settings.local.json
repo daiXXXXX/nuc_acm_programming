@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd *)",
+      "Bash(go build *)",
+      "Bash(go version *)",
+      "mcp__ide__getDiagnostics",
+      "Bash(git *)",
+      "Bash(git -C \"d:/毕业设计/programming-backend\" status)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
